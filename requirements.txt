@@ -1,0 +1,10 @@
+langgraph
+langchain-openai
+langchain-core
+openai
+elevenlabs
+sounddevice
+numpy
+scipy
+requests
+python-dotenv
